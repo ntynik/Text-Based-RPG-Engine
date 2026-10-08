@@ -13,7 +13,7 @@ The beginnings of an LLM-powered text-based RPG game engine. The end goal is to 
 3. Run main.py
 
 ## Preview
-![Weather Dashboard](screenshots/demo.png)
+![Chatbot](Screenshots/RPG-Engine-V0.01.png)
 
 ## What I Hope to Learn
 - Working with external APIs
