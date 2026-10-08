@@ -1,5 +1,5 @@
 # RPG Engine
-The beginnings of an LLM-powered text-based RPG game engine. The end goal is to allow for something similar to single-player dungeons and dragons, where the world and characters react and are changed by what the player does, while information on events persists long-term and can be reliably retrieved to ensure consistency even over long sessions. Currently just a normal chatbot with save/load functionality and message regeneration.
+The beginnings of an LLM-powered text-based RPG game engine. The end goal is to allow for something similar to single-player dungeons and dragons, where the world and characters react and are changed by what the player does, while information on events persists long-term and can be reliably retrieved to ensure consistency even over long sessions. Currently just a normal chatbot with save/load functionality and message regeneration that runs in the temrinal.
 
 ## Planned Technologies
 - HTML5 & CSS3
